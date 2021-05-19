@@ -322,6 +322,14 @@
       "channel": "stable"
     },
     {
+      "version": "2.0.0-6",
+      "level": "bug_fix",
+      "url": "https://github.com/astronomer/airflow/releases/tag/v2.0.0%2Bastro.6",
+      "release_date": "2021-05-12T20:00:00+00:00",
+      "tags": ["2.0.0-6-buster-onbuild", "2.0.0-6-buster"],
+      "channel": "stable"
+    },
+    {
       "version": "2.0.2",
       "level": "new_feature",
       "url": "https://github.com/astronomer/airflow/releases/tag/v2.0.2%2Bastro.1",
@@ -335,6 +343,14 @@
       "url": "https://github.com/astronomer/airflow/releases/tag/v2.0.2%2Bastro.1",
       "release_date": "2021-04-26T23:15:00+00:00",
       "tags": ["2.0.2-1-buster-onbuild", "2.0.2-1-buster"],
+      "channel": "stable"
+    },
+    {
+      "version": "2.0.2-2",
+      "level": "bug_fix",
+      "url": "https://github.com/astronomer/airflow/releases/tag/v2.0.2%2Bastro.2",
+      "release_date": "2021-05-12T20:00:00+00:00",
+      "tags": ["2.0.2-2-buster-onbuild", "2.0.2-2-buster"],
       "channel": "stable"
     }
   ]
