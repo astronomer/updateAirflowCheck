@@ -274,6 +274,14 @@
       "channel": "stable"
     },
     {
+      "version": "1.10.15-2",
+      "level": "bug_fix",
+      "url": "https://github.com/astronomer/airflow/releases/tag/v1.10.15%2Bastro.2",
+      "release_date": "2021-06-04T20:00:00+00:00",
+      "tags": ["1.10.15-2-buster-onbuild", "1.10.15-2-buster"],
+      "channel": "stable"
+    },
+    {
       "version": "2.0.0",
       "level": "new_feature",
       "url": "https://github.com/astronomer/airflow/releases/tag/v2.0.0%2Bastro.1",
@@ -330,6 +338,14 @@
       "channel": "stable"
     },
     {
+      "version": "2.0.0-7",
+      "level": "bug_fix",
+      "url": "https://github.com/astronomer/airflow/releases/tag/v2.0.0%2Bastro.7",
+      "release_date": "2021-06-04T20:00:00+00:00",
+      "tags": ["2.0.0-7-buster-onbuild", "2.0.0-7-buster"],
+      "channel": "stable"
+    },
+    {
       "version": "2.0.2",
       "level": "new_feature",
       "url": "https://github.com/astronomer/airflow/releases/tag/v2.0.2%2Bastro.1",
@@ -354,6 +370,14 @@
       "channel": "stable"
     },
     {
+      "version": "2.0.2-3",
+      "level": "bug_fix",
+      "url": "https://github.com/astronomer/airflow/releases/tag/v2.0.2%2Bastro.3",
+      "release_date": "2021-06-03T21:00:00+00:00",
+      "tags": ["2.0.2-3-buster-onbuild", "2.0.2-3-buster"],
+      "channel": "stable"
+    },
+    {
       "version": "2.1.0",
       "level": "new_feature",
       "url": "https://github.com/astronomer/airflow/releases/tag/v2.1.0%2Bastro.1",
@@ -367,6 +391,14 @@
       "url": "https://github.com/astronomer/airflow/releases/tag/v2.1.0%2Bastro.1",
       "release_date": "2021-05-21T23:15:00+00:00",
       "tags": ["2.1.0-1-buster-onbuild", "2.1.0-1-buster"],
+      "channel": "stable"
+    },
+    {
+      "version": "2.1.0-2",
+      "level": "bug_fix",
+      "url": "https://github.com/astronomer/airflow/releases/tag/v2.1.0%2Bastro.2",
+      "release_date": "2021-06-03T19:00:00+00:00",
+      "tags": ["2.1.0-2-buster-onbuild", "2.1.0-2-buster"],
       "channel": "stable"
     }
   ]
